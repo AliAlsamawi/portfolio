@@ -115,6 +115,11 @@ img {
     max-width: 100%;
 }
 
+.about__photo{
+object-fit: contain;
+max-width: 40%;
+}
+
 /* --------------------------------------- */
 /* ----- Headlines and Paragraphs ----- */
 /* --------------------------------------- */
